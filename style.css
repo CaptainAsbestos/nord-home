@@ -2,7 +2,7 @@
     align-items:  center;
     vertical-align: middle;
     font-weight: bold;
-    color: #772953;
+    color: #076678;
     font-size: 80px;
     font-family: Ubuntu Mono;
     font-weight: bold;
@@ -10,8 +10,8 @@
 }
 
 #box1 {
-    background-color: #420d33;
-    color: #772953;
+    background-color: #282828;
+    color: #d79921;
     margin: 10px;
     padding-top: 15px;
     padding-bottom: 15px;
@@ -24,8 +24,8 @@
 }
 
 #box2 {
-    background-color: #420d33;
-    color: #772953;
+    background-color: #282828;
+    color: #b16286;
     margin: 10px;
     padding-top: 15px;
     padding-bottom: 15px;
@@ -38,8 +38,8 @@
 }
 
 #box3 {
-    background-color: #420013;
-    color: #772953;
+    background-color: #282828;
+    color: #d65d0e;
     margin: 10px;
     padding-top: 15px;
     padding-bottom: 15px;
@@ -52,12 +52,12 @@
 }
 
 body {
-    background-color: #2c001e;
+    background-color: #1d2021;
     margin: 0;
     align-items:  center;
     vertical-align: middle;
     font-weight: bold;
-    color: #93a1a1;
+    color: #32302f;
 }
 
 .bg-image {
@@ -84,32 +84,32 @@ a {
 
 #box1:hover {
     transform: scale(1.0);
-    color: #e95420;
-    box-shadow: 0px 0px 5px 5px #60001c88;
+    color: #32302f;
+    box-shadow: 0px 0px 5px 5px #fabd2f88;
     transition: 0.2s;
 }
 
 #box2:hover {
     transform: scale(1.0);
-    color: #e95420;
-    box-shadow: 0px 0px 5px 5px #60001c88;
+    color: #32302f;
+    box-shadow: 0px 0px 5px 5px #d3869b88;
     transition: 0.2s;
 }
 
 #box3:hover {
     transform: scale(1.0);
-    color: #e95420;
-    box-shadow: 0px 0px 5px 5px #60001c88;
+    color: #32302f;
+    box-shadow: 0px 0px 5px 5px #fe801988;
     transition: 0.2s;
 }
 
 #searchbar:hover {
     width: 100%;
     max-width: 925px;
-    box-shadow: 0px 0px 5px 5px #60001c88;
+    box-shadow: 0px 0px 5px 5px #98971a88;
     transition: 0.2s;
     transition-delay: 0.0s;
-    color: #e95420;
+    color: #b8bb26;
     font-family: Ubuntu Mono;
     font-weight: bold;
 }
@@ -117,10 +117,10 @@ a {
 #searchbar:focus {
     width: 100%;
     max-width: 925px;
-    border: 0px solid #ad7fa800;
+    border: 0px solid #79740e00;
     border-radius: 5px;
-    box-shadow: 0px 0px 5px 5px #6001c88;
-    color: #e95420;
+    box-shadow: 0px 0px 5px 5px #79740e;
+    color: #b8bb26;
     font-family: Ubuntu Mono;
     font-weight: bold;
 }
@@ -130,8 +130,8 @@ a {
     height: 45px;
     max-width: 925px;
     border: 0px solid #00000000;
-    background-color: #772953;
-    color: #2c001e;
+    background-color: #32302f;
+    color: #ebdbb2;
     font-family: inherit;
     font-size: 18px;
     margin: 10px;
