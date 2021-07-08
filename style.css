@@ -4,7 +4,7 @@
     font-weight: bold;
     color: #076678;
     font-size: 80px;
-    font-family: Ubuntu Mono;
+    font-family: Hack;
     font-weight: bold;
     text-shadow: 5px 5px 5px #00000000;
 }
@@ -110,7 +110,7 @@ a {
     transition: 0.2s;
     transition-delay: 0.0s;
     color: #b8bb26;
-    font-family: Ubuntu Mono;
+    font-family: Hack;
     font-weight: bold;
 }
 
@@ -121,7 +121,7 @@ a {
     border-radius: 5px;
     box-shadow: 0px 0px 5px 5px #79740e;
     color: #b8bb26;
-    font-family: Ubuntu Mono;
+    font-family: Hack;
     font-weight: bold;
 }
 
@@ -140,7 +140,7 @@ a {
     transition: width 0.5s;
     transition-delay: 0.5s;
     text-align: center;
-    font-family: Ubuntu Mono;
+    font-family: Hack;
     font-weight: bold;
 }
 
@@ -151,7 +151,8 @@ a {
     top:50%;
     -ms-transform: translateY(-50%);
     transform: translateY(-50%);
-    font-family: Ubuntu Condensed;
+    font-family: Frutiger LT Std;
+    font-stretch: Condensed;
 }
 
 
