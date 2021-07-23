@@ -10,7 +10,7 @@
 }
 
 #box1 {
-    background-color: #2e3440;
+    background-color: #3b4252;
     color: #bf616a;
     margin: 10px;
     padding-top: 15px;
@@ -24,7 +24,7 @@
 }
 
 #box2 {
-    background-color: #2e3440;
+    background-color: #3b4252;
     color: #d08770;
     margin: 10px;
     padding-top: 15px;
@@ -38,7 +38,7 @@
 }
 
 #box3 {
-    background-color: #2e3440;
+    background-color: #3b4252;
     color: #b48ead;
     margin: 10px;
     padding-top: 15px;
@@ -52,12 +52,12 @@
 }
 
 body {
-    background-color: #3b4252;
+    background-color: #2e3440;
     margin: 0;
     align-items:  center;
     vertical-align: middle;
     font-weight: bold;
-    color: #32302f;
+    color: #8fbcbb;
 }
 
 .bg-image {
